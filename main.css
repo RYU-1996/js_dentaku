@@ -1,0 +1,19 @@
+table{
+  width: 300px;
+  height: 400px;
+  text-align: center;
+}
+
+input{
+  width: 70px;
+  height: 70px;
+  font-size: 30px;
+  border-radius: 50px;
+}
+
+.display{
+  width: 270px;
+  text-align: right;
+  border-radius: 5px;
+}
+  
